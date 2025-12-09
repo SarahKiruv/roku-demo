@@ -1,0 +1,22 @@
+{
+    "series": [
+      {
+        "id": "spanish-demo-series",
+        "title": "Spanish Demo Series",
+        "items": [
+          {
+            "id": "spanish-demo-001",
+            "title": "Spanish Demo Lecture",
+            "description": "A sample Spanish lecture used to test the Roku Spanish Channel prototype.",
+            "thumbnail_url": "https://via.placeholder.com/320x180.png?text=Spanish+Demo",
+            "video_url": "https://raw.githubusercontent.com/SarahKiruv/roku-demo/main/roku-test.mp4",
+            "series_title": "Spanish Demo Series",
+            "episode_number": 1,
+            "publish_date": "2025-12-09T00:00:00Z",
+            "duration_seconds": 1910
+          }
+        ]
+      }
+    ]
+  }
+  
